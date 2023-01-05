@@ -1,0 +1,13 @@
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\bin\Debug\netcoreapp3.1\mySqlSettingsExample.json
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\bin\Debug\netcoreapp3.1\MMABooksProps.deps.json
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\bin\Debug\netcoreapp3.1\MMABooksProps.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\bin\Debug\netcoreapp3.1\MMABooksProps.pdb
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\bin\Debug\netcoreapp3.1\MMABooksTools.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\bin\Debug\netcoreapp3.1\MMABooksTools.pdb
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\obj\Debug\netcoreapp3.1\MMABooksProps.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\obj\Debug\netcoreapp3.1\MMABooksProps.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\obj\Debug\netcoreapp3.1\MMABooksProps.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\obj\Debug\netcoreapp3.1\MMABooksProps.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\obj\Debug\netcoreapp3.1\MMABooksProps.csproj.CopyComplete
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\obj\Debug\netcoreapp3.1\MMABooksProps.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksProps\obj\Debug\netcoreapp3.1\MMABooksProps.pdb

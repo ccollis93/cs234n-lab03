@@ -1,0 +1,16 @@
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\bin\Debug\netcoreapp3.1\mySqlSettingsExample.json
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\bin\Debug\netcoreapp3.1\mySqlSettings.json
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\bin\Debug\netcoreapp3.1\MMABooksDB.deps.json
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\bin\Debug\netcoreapp3.1\MMABooksDB.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\bin\Debug\netcoreapp3.1\MMABooksDB.pdb
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\bin\Debug\netcoreapp3.1\MMABooksProps.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\bin\Debug\netcoreapp3.1\MMABooksTools.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\bin\Debug\netcoreapp3.1\MMABooksProps.pdb
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\bin\Debug\netcoreapp3.1\MMABooksTools.pdb
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\obj\Debug\netcoreapp3.1\MMABooksDB.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\obj\Debug\netcoreapp3.1\MMABooksDB.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\obj\Debug\netcoreapp3.1\MMABooksDB.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\obj\Debug\netcoreapp3.1\MMABooksDB.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\obj\Debug\netcoreapp3.1\MMABooksDB.csproj.CopyComplete
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\obj\Debug\netcoreapp3.1\MMABooksDB.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab03\framework-lab-ccollis93\MMABooksFramework\MMABooksDB\obj\Debug\netcoreapp3.1\MMABooksDB.pdb
